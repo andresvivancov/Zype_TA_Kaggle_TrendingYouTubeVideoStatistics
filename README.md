@@ -3,7 +3,16 @@ Scenario: There is a public dataset available at Kaggle.com for youtube video st
 
 
 I published the code on youtube, google colab, and git hub. Please let me know if you have some question about it.
+
+
+
 Youtube:  https://youtu.be/79d2C2Q3BpI
+
+
+
 Github: https://github.com/andresvivancov/Zype_TA_Kaggle_TrendingYouTubeVideoStatistics
+
+
+
 Colab: https://colab.research.google.com/drive/1cxkOMyF0bosS827xPCwpAsQ6xqhWGtdl?usp=sharing
 
